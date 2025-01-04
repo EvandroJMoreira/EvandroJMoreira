@@ -1,8 +1,8 @@
-<b>Bem-vindo</b>!
+<h1>Bem-vindo!</h1>
 
 Eu sou <b>Evandro Moreira</b>, programador <b>Front-End</b> em constante aprendizado e evolução.
 
-Estou me tornando um desenvolvedor <b>Full Stack</B> com uma nova formação junto ao <b><a href="https://rodolfomori.com.br/devclub/">DevClub</a></b>. 
+Estou me tornando um desenvolvedor <b>Full Stack</B> com uma nova formação junto ao <b><a href="https://rodolfomori.com.br/devclub/">DevClub</a></b>.
 
 Atualmente estou <b>criando projetos</b> e <b>desenvolvendo habilidades</b> com:
 <br>
