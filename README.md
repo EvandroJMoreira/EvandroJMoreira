@@ -12,7 +12,7 @@ Atualmente estou <b>criando projetos</b> e <b>desenvolvendo habilidades</b> com:
 [![Evandro Stats](https://github-readme-stats.vercel.app/api?username=EvandroJMoreira)](https://github.com/anuraghazra/github-readme-stats)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvandroJMoreira)](https://github.com/anuraghazra/github-readme-stats)
 
 <b>Contatos:</b>
-<br>
+<br><br>
 <a href="https://evandrojmoreira.github.io/Site-Evandro-Moreira/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="logo-website"></a>
 <a href="mailto:evandromoreira.mkt@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="logo-gmail"></a>
 <a href="https://wa.me/5571992200602?text=Fala%2C%20programador." target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="logo-whatsapp"></a>
